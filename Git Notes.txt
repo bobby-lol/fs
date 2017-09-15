@@ -3,3 +3,6 @@ git config --global user.email
 git clone clone path
 git add Git Notes.txt
 git status
+git Commit  -m "First Comment"
+git push -u origin master
+
