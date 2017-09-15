@@ -1,0 +1,5 @@
+git config --global user.name "bob-lol"
+git config --global user.email 
+git clone clone path
+git add Git Notes.txt
+git status
